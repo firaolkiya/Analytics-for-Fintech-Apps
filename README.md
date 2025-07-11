@@ -110,10 +110,14 @@ cx_Oracle	Python–Oracle DB connector
 Online reviews may exhibit bias. Dissatisfied users are often more likely to post reviews, which can lead to a negativity bias. For fair analysis, sentiment results should be cross-validated with internal usage analytics when possible.
 
 📄 Screen shoot
-<img width="663" height="494" alt="Image" src="https://github.com/user-attachments/assets/e2516541-45bf-4777-a687-837ab253a549" />
-<img width="663" height="494" alt="Image" src="https://github.com/user-attachments/assets/955f7dd7-47de-4ae3-888f-3887227f8219" />
-<img width="830" height="486" alt="Image" src="https://github.com/user-attachments/assets/c297d00a-4ed6-43eb-b664-b79f53a59475" />
-<img width="822" height="563" alt="Image" src="https://github.com/user-attachments/assets/f9e91e98-a62a-4fd5-9c52-f4ec09525057" />
+<div width=100% >
+  <img height="494" alt="Image" src="https://github.com/user-attachments/assets/e2516541-45bf-4777-a687-837ab253a549" />
+  <img  height="494" alt="Image" src="https://github.com/user-attachments/assets/955f7dd7-47de-4ae3-888f-3887227f8219" />
+</div>
+<div width=100%>
+  <img height="486" alt="Image" src="https://github.com/user-attachments/assets/c297d00a-4ed6-43eb-b664-b79f53a59475" />
+  <img height="563" alt="Image" src="https://github.com/user-attachments/assets/f9e91e98-a62a-4fd5-9c52-f4ec09525057" />
+</div>
 
 📦 Setup Instructions
 Clone the repo:
