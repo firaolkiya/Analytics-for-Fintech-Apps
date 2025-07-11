@@ -15,6 +15,8 @@ bank-reviews-scraper/
 ├── src/                   # Python scripts for each task
 ├── README.md              # Project documentation
 ├── requirements.txt       # Python dependencies
+
+```
 🚀 Workflow Overview
 <details> <summary><strong>1. Web Scraping</strong></summary>
 Used google-play-scraper to extract reviews from:
@@ -113,26 +115,23 @@ See: reports/final_insights_report.md
 📦 Setup Instructions
 Clone the repo:
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/your-username/bank-reviews-scraper.git
 cd bank-reviews-scraper
+```
 Install dependencies:
 
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
 Run analysis scripts:
 
-bash
-Copy
-Edit
+```bash
 python src/sentiment_analysis.py
 python src/thematic_analysis.py
 python src/visualize_insights.py
 python src/db_insert_oracle.py
+```
 ✍️ Author
 Firaol Bulo
 Software Engineering Student @ ASTU | A2SV Trainee | Mobile App Developer
